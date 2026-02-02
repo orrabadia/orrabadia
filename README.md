@@ -18,7 +18,7 @@ I'm Om Rabadia, a Full-Stack Software Engineer with eye for design, building sca
 > *“One hour per day of study in your chosen field is all it takes. One hour per day of study will put you at the top of your field within three years. Within five years you’ll be a national authority. In seven years, you can be one of the best people in the world at what you do.”* — Earl Nightingale
 
 **Projects**
-- I’m currently working on a mobile ordering web app for 101 bagels, aiming to save them hundreds in platform costs per month.
+- I’m currently working on a mobile ordering web app for 101 Bagels & Subs, aiming to save them hundreds in platform costs per month.
 <img width="1918" height="732" alt="image" src="https://github.com/user-attachments/assets/43dbad69-fcf3-467d-a26e-3a47a30558d2" />
 
 
